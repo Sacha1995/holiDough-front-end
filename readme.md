@@ -7,10 +7,15 @@
 Welcome to **HoliDough**, designed and developed by [Sacha](https://github.com/sacha1995), [Jack](https://github.com/jack-berry), [Zahra](https://github.com/zedvas), and [Manzi](https://github.com/manzi9).
 
 Imagine you're planning the ultimate holiday, and the thought of managing your budget, scheduling, and expenses starts to feel overwhelming. Enter HoliDough, your personal travel assistant designed to turn holiday planning into a breeze.
+
 You can add your trips to Holigouh, enter the dates and set up your budget. As you outline each trip, HoliDough helps you break down your budget into sub-totals, giving you a clear view of where your money will go.
+
 With your trips set, you start recording expenses. Whether it's a spontaneous dinner or a planned activity, HoliDough makes it easy to track costs across single or multiple days. And if you're traveling with friends, no worries! You can assign billsplits to each person, ensuring that everyone pays their fair share.
-But that's not all. Holigouh goes a step further by letting you create predicted expenses. This feature helps you plan your budget in detail, so you’re never caught off guard. As you spend, Holigouh tracks your budget automatically, providing you with real-time updates and visual insights into your spending habits.
+
+But that's not all. Holigouh goes a step further by letting you create predicted expenses. This feature helps you plan your budget in detail, so you’re never caught off guard. As you spend, HoliDough tracks your budget automatically, providing you with real-time updates and visual insights into your spending habits.
+
 And when you're dealing with different currencies, HoliDough’s currency conversion feature steps in, seamlessly converting your expenses so you can stay on top of your budget without any hassle.
+
 With HoliDough, managing your holiday plans becomes a delightful experience, allowing you to focus on enjoying your trip while it takes care of the details.
 
 ## Table of Contents
