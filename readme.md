@@ -18,6 +18,15 @@ And when you're dealing with different currencies, HoliDough’s currency conver
 
 With HoliDough, managing your holiday plans becomes a delightful experience, allowing you to focus on enjoying your trip while it takes care of the details.
 
+![ipad daily budget](https://github.com/user-attachments/assets/9119f43f-49bf-473b-88fc-64d87115efdc)
+![ipad totalbudget](https://github.com/user-attachments/assets/1fc566e7-3e5d-4aaa-96d0-e6620cbe3351)
+![onboarding](https://github.com/user-attachments/assets/497eca20-038b-44f0-a67f-7c4ae39dd30d)
+![addExpense](https://github.com/user-attachments/assets/40027c62-b4a3-4cab-a187-49a52dffe97d)
+![billsplitchart](https://github.com/user-attachments/assets/d0259442-b7b3-471b-8d0f-e6777479d7d4)
+![cropper](https://github.com/user-attachments/assets/34daabc9-b43e-467c-b771-e161164ab12b)
+![billsplits](https://github.com/user-attachments/assets/e2848aed-2ced-46c5-912c-ed861f5dfd56)
+
+
 ## Table of Contents
 
 - [Features](#features)
